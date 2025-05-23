@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 250px;
+  padding: 20px 40px;
+
+  margin: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+.container h1 {
+  text-align: center;
+}
+.container .child-element {
+  width: 100%;
+
+  text-align: left;
+}
+.container .footer {
+  text-align: center;
+  background-color: #007bff;
+  display: block;
+  width: 100%;
+  border: none;
+}
