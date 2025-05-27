@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 500px;
+  border: 1px solid black;
+  /* margin: 10px; */
+}
+.div1 h3 {
+  background: #e7f1ff;
+  height: 50px;
+  padding: 15px;
+  color: #1064e4;
+}
+.div1 p {
+  padding: 15px;
+  border-bottom: 1px solid #dfdfdf;
+  border-top: 1px solid #dfdfdf;
+}
+.div h3 {
+  padding: 15px;
+  border-bottom: 1px solid #dfdfdf;
+  border-top: 1px solid #dfdfdf;
+}
+.div1 .len {
+  position: relative;
+  left: 300px;
+}
+.container .div .xuong {
+  position: relative;
+  left: 300px;
+}
