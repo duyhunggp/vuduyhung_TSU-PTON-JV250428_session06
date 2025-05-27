@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+nav {
+  background-color: #4caf50;
+  color: white;
+  display: flex;
+
+  justify-content: space-between;
+}
+.logo a {
+  color: white;
+  text-decoration: none;
+}
+.link {
+  display: flex;
+  list-style: none;
+}
+.link li a {
+  color: white;
+  text-decoration: none;
+}
+.ss1 {
+  background-color: #f4f4f4;
+  padding: 50px;
+  text-align: center;
+  line-height: 30px;
+}
+.ss1 button {
+  background-color: #4caf50;
+  border: 0;
+  padding: 5px;
+  border-radius: 5px;
+}
+.ss1 button a {
+  text-decoration: none;
+}
+.table {
+  background-color: #f4f4f4;
+  text-align: center;
+  width: 100%;
+  margin: 10px;
+}
+.table .tr td {
+  padding: 5px;
+  background-color: #dddddd;
+  border-radius: 5px;
+}
+footer {
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+}
