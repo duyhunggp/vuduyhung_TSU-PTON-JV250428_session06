@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1000px;
+  height: 300px;
+  border: 1px solid rebeccapurple;
+  padding-left: 20px;
+  background-color: #f2f2f2;
+}
+.main .main-right {
+  padding-left: 20px;
+}
+.main img {
+  width: 300px;
+  height: 250px;
+  padding-top: 20px;
+}
+.footer {
+  padding-top: 20px;
+}
+.main-right h1 {
+  padding-top: 20px;
+}
+
+.fticon {
+  line-height: 50px;
+}
